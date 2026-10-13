@@ -1,4 +1,4 @@
-# HMEG Handwritten Math Generation
+# Handwritten Mathematical Expression Generation and Style Analysis
 
 A compact project wrapper around the official HMEG graph-to-image pipeline for handwritten mathematical expression generation.
 
